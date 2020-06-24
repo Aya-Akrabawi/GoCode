@@ -1,0 +1,35 @@
+* {font-family: monospace ;}
+h1 {
+    font-family: 'Courier New' ; text-align: center ;
+    color: blueviolet;
+}
+body {
+    background-color: #C8C8C8;
+    background-color: hsl(0,0%,78%);}}
+
+img {
+    height: 250px; 
+width: 250px;
+ }
+
+footer img {
+    height: 50px;
+    width: 50px;
+}
+main {
+    display: inline;
+}
+article {
+    display: inline-block;
+}
+li {
+    display: inline-block;
+    margin: 120px;
+font-size: 50px;
+
+color: black;
+}
+footer p {
+    font-size: 20px;
+
+}
